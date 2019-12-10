@@ -1,0 +1,4 @@
+*.html text working-tree-encoding=sjis encoding=sjis
+*.txt text working-tree-encoding=sjis encoding=sjis
+src/**/*.css text working-tree-encoding=sjis encoding=sjis
+src/**/*.js text working-tree-encoding=sjis encoding=sjis
